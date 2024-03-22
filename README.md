@@ -17,7 +17,11 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🔨 Tools Used
 
-![image](https://github.com/Nitin-kaithvar/tic-tac-toe-game/assets/164529774/f9a708cf-53c7-4b98-b078-f6e10caea51b) ![image](https://github.com/Nitin-kaithvar/tic-tac-toe-game/assets/164529774/f589fc31-648a-4e36-9e5f-fcb43f717ddc) ![image](https://github.com/Nitin-kaithvar/tic-tac-toe-game/assets/164529774/80288026-f978-4433-9227-e85c12a857a6) ![image](https://github.com/Nitin-kaithvar/tic-tac-toe-game/assets/164529774/3f4188dd-98ad-40ab-aa2d-69ae6aba178e)
+<img src="https://github.com/Nitin-kaithvar/tic-tac-toe-game/assets/164529774/f9a708cf-53c7-4b98-b078-f6e10caea51b" alt="Image 1" width="200" height="200">
+<img src="https://github.com/Nitin-kaithvar/tic-tac-toe-game/assets/164529774/f589fc31-648a-4e36-9e5f-fcb43f717ddc" alt="Image 2" width="200" height="200">
+<img src="https://github.com/Nitin-kaithvar/tic-tac-toe-game/assets/164529774/80288026-f978-4433-9227-e85c12a857a6" alt="Image 3" width="200" height="200">
+<img src="https://github.com/Nitin-kaithvar/tic-tac-toe-game/assets/164529774/3f4188dd-98ad-40ab-aa2d-69ae6aba178e" alt="Image 4" width="200" height="200">
+
 
 ## 🔗 Links
 Checkout the Website Web Application
